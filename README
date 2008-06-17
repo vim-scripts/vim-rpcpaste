@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2269
+
+A ViM plugin to send code to a pastebin such as paste.debian.net using XML-RPC
+
+Use F2 in visual select mode to send it the selected text.
+Use :PasteFile to send the whole file.
+Use :PasteGajim to send the selected text and send the url to one of your gajim contact.
+
+
+This is my first Vim plugin don't hesitate to send me comments about how I could make it better.
